@@ -5,7 +5,7 @@
     "description":"Predict health insurance charges based on demographic and lifestyle factors",
     "creator":"Mosap Abdel-Ghany",
     "sizeMB":0.02,
-    "downloadCount":19480,
+    "downloadCount":19952,
     "usabilityRating":1.0,
     "tags":[
       "health",
@@ -24,7 +24,7 @@
     "description":"Comprehensive Data on Crocodile Species, Habitats, and Conservation Status",
     "creator":"Bhrami Zadafiya",
     "sizeMB":0.05,
-    "downloadCount":12839,
+    "downloadCount":12990,
     "usabilityRating":1.0,
     "tags":[
       "earth and nature",
@@ -43,7 +43,7 @@
     "description":"Country-level GDP (2020–2025), Annual Economic Data",
     "creator":"Code by Nadiia",
     "sizeMB":0.01,
-    "downloadCount":10149,
+    "downloadCount":10258,
     "usabilityRating":1.0,
     "tags":[
       "global",
@@ -62,7 +62,7 @@
     "description":"Understanding Learning Achievements",
     "creator":"Saad Ali Yaseen",
     "sizeMB":0.0,
-    "downloadCount":5965,
+    "downloadCount":6303,
     "usabilityRating":1.0,
     "tags":[
       "research",
@@ -76,31 +76,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/saadaliyaseen\/analyzing-student-academic-trends"
   },
   {
-    "title":"BMW Global Sales Analysis",
-    "ref":"sidraaazam\/bmw-global-sales-analysis",
-    "description":"Impact of Price and Mileage on Market Trends",
-    "creator":"Sidraazam",
-    "sizeMB":0.81,
-    "downloadCount":1381,
-    "usabilityRating":1.0,
-    "tags":[
-      "data cleaning",
-      "data visualization",
-      "data analytics",
-      "adversarial learning",
-      "automl"
-    ],
-    "lastUpdated":1757732387453,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/sidraaazam\/bmw-global-sales-analysis"
-  },
-  {
     "title":"Lifestyle and Sleep Patterns",
     "ref":"minahilfatima12328\/lifestyle-and-sleep-patterns",
     "description":"Health Patterns in Sleep",
     "creator":"Minahil Fatima",
     "sizeMB":0.0,
-    "downloadCount":2132,
+    "downloadCount":2432,
     "usabilityRating":1.0,
     "tags":[
       "health and fitness",
@@ -114,38 +95,23 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/minahilfatima12328\/lifestyle-and-sleep-patterns"
   },
   {
-    "title":"coffee shop",
-    "ref":"jawad3664\/coffee-shop",
-    "description":"coffee shop for selling",
-    "creator":"Jawad ahmad",
-    "sizeMB":0.03,
-    "downloadCount":788,
+    "title":"BMW Global Sales Analysis",
+    "ref":"sidraaazam\/bmw-global-sales-analysis",
+    "description":"Impact of Price and Mileage on Market Trends",
+    "creator":"Sidraazam",
+    "sizeMB":0.81,
+    "downloadCount":1622,
     "usabilityRating":1.0,
     "tags":[
-      "programming"
-    ],
-    "lastUpdated":1758620561813,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/jawad3664\/coffee-shop"
-  },
-  {
-    "title":"Student Academic Performance Trends",
-    "ref":"emanfatima2025\/student-academic-performance-trends",
-    "description":"Exploring Study Trends Through Study Time, Sleep and Scores",
-    "creator":"eman fatima",
-    "sizeMB":0.0,
-    "downloadCount":1028,
-    "usabilityRating":1.0,
-    "tags":[
-      "education",
-      "programming",
       "data cleaning",
       "data visualization",
-      "mathematics"
+      "data analytics",
+      "adversarial learning",
+      "automl"
     ],
-    "lastUpdated":1757953011000,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/emanfatima2025\/student-academic-performance-trends"
+    "lastUpdated":1757732387453,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/sidraaazam\/bmw-global-sales-analysis"
   },
   {
     "title":"Spotify Analysis Dataset 2025",
@@ -153,7 +119,7 @@
     "description":"Synthetically generated dataset for EDA and ML",
     "creator":"nabiha zahid",
     "sizeMB":0.09,
-    "downloadCount":5229,
+    "downloadCount":5571,
     "usabilityRating":1.0,
     "tags":[
       "exploratory data analysis",
@@ -167,12 +133,27 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/nabihazahid\/spotify-dataset-for-churn-analysis"
   },
   {
+    "title":"coffee shop",
+    "ref":"jawad3664\/coffee-shop",
+    "description":"coffee shop for selling",
+    "creator":"Jawad ahmad",
+    "sizeMB":0.03,
+    "downloadCount":942,
+    "usabilityRating":1.0,
+    "tags":[
+      "programming"
+    ],
+    "lastUpdated":1758620561813,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/jawad3664\/coffee-shop"
+  },
+  {
     "title":"Uber Data Analytics Dashboard",
     "ref":"yashdevladdha\/uber-ride-analytics-dashboard",
     "description":"Complete ride-sharing data with bookings, ratings & revenue",
     "creator":"Yash Dev Laddha",
     "sizeMB":16.52,
-    "downloadCount":57197,
+    "downloadCount":57580,
     "usabilityRating":1.0,
     "tags":[
       "india",
@@ -186,23 +167,61 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/yashdevladdha\/uber-ride-analytics-dashboard"
   },
   {
-    "title":"Movie Dataset for Analytics & Visualization",
-    "ref":"mjshubham21\/movie-dataset-for-analytics-and-visualization",
-    "description":"Movie analytics dataset: genres, ratings, revenue & cast & more (1 million rows)",
-    "creator":"Shubham R Pawar",
-    "sizeMB":62.12,
-    "downloadCount":2831,
+    "title":"UFC 2025 Dataset : Fights, Fighters & Events",
+    "ref":"aminealibi\/ufc-fights-fighters-and-events-dataset",
+    "description":"The most up-to-date dataset,covering events from 1994 - 2025 (UFC 2 -- UFC 319) ",
+    "creator":"Amine Alibi",
+    "sizeMB":2.73,
+    "downloadCount":836,
     "usabilityRating":1.0,
     "tags":[
-      "movies and tv shows",
+      "sports",
       "exploratory data analysis",
-      "data visualization",
-      "ratings and reviews",
-      "synthetic"
+      "data cleaning",
+      "clustering",
+      "recommender systems"
     ],
-    "lastUpdated":1757333602823,
-    "ai_category":"Film & Television Media",
-    "url":"https:\/\/www.kaggle.com\/datasets\/mjshubham21\/movie-dataset-for-analytics-and-visualization"
+    "lastUpdated":1759091377503,
+    "ai_category":"Fandoms & Cultural Expression",
+    "url":"https:\/\/www.kaggle.com\/datasets\/aminealibi\/ufc-fights-fighters-and-events-dataset"
+  },
+  {
+    "title":"Global Climate Events and Economic Impact Dataset",
+    "ref":"uom190346a\/global-climate-events-and-economic-impact-dataset",
+    "description":"The dataset contains 3,000+ climate events across 51 countries from 2020 to 2025",
+    "creator":"Laksika Tharmalingam",
+    "sizeMB":0.1,
+    "downloadCount":998,
+    "usabilityRating":1.0,
+    "tags":[
+      "global",
+      "atmospheric science",
+      "advanced",
+      "tabular",
+      "evaluation"
+    ],
+    "lastUpdated":1758179737253,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/uom190346a\/global-climate-events-and-economic-impact-dataset"
+  },
+  {
+    "title":"Student Academic Performance Trends",
+    "ref":"emanfatima2025\/student-academic-performance-trends",
+    "description":"Exploring Study Trends Through Study Time, Sleep and Scores",
+    "creator":"eman fatima",
+    "sizeMB":0.0,
+    "downloadCount":1232,
+    "usabilityRating":1.0,
+    "tags":[
+      "education",
+      "programming",
+      "data cleaning",
+      "data visualization",
+      "mathematics"
+    ],
+    "lastUpdated":1757953011000,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/emanfatima2025\/student-academic-performance-trends"
   },
   {
     "title":"Car Sales Dataset: Model, Features, and Pricing",
@@ -210,7 +229,7 @@
     "description":"Comprehensive dataset of 50k car listings with technical specifications, mileage",
     "creator":"Mohsen Behdani",
     "sizeMB":0.48,
-    "downloadCount":9486,
+    "downloadCount":9713,
     "usabilityRating":1.0,
     "tags":[
       "artificial intelligence",
@@ -224,49 +243,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/msnbehdani\/mock-dataset-of-second-hand-car-sales"
   },
   {
-    "title":"Student Performance Dataset",
-    "ref":"nabeelqureshitiii\/student-performance-dataset",
-    "description":"A generic data for ML Beginners ",
-    "creator":"Ghulam Muhammad Nabeel",
-    "sizeMB":8.93,
-    "downloadCount":4308,
-    "usabilityRating":1.0,
-    "tags":[
-      "research",
-      "education",
-      "artificial intelligence",
-      "computer science",
-      "engineering"
-    ],
-    "lastUpdated":1756294092000,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/nabeelqureshitiii\/student-performance-dataset"
-  },
-  {
-    "title":"YouTube Top 100 Songs 2025 Dataset",
-    "ref":"vedikagupta0\/youtube-top-100-songs-2025-dataset",
-    "description":"This dataset contains comprehensive metadata for the top 100 most popular songs.",
-    "creator":"Vedika Gupta",
-    "sizeMB":0.07,
-    "downloadCount":1253,
-    "usabilityRating":0.8235294,
-    "tags":[
-      "arts and entertainment",
-      "music",
-      "art",
-      "beginner"
-    ],
-    "lastUpdated":1758540749517,
-    "ai_category":"Music & Audio Trends",
-    "url":"https:\/\/www.kaggle.com\/datasets\/vedikagupta0\/youtube-top-100-songs-2025-dataset"
-  },
-  {
     "title":"Academic Stress Level",
     "ref":"ayeshaimran123\/academic-stress-level-maintenance-dataset",
     "description":"\"A survey-based study on student academic stress and Environments\"",
     "creator":"Ayesha Imran",
     "sizeMB":0.0,
-    "downloadCount":1847,
+    "downloadCount":1977,
     "usabilityRating":1.0,
     "tags":[
       "mental health",
@@ -280,23 +262,61 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/ayeshaimran123\/academic-stress-level-maintenance-dataset"
   },
   {
-    "title":"Screen Time vs Mental Wellness Survey - 2025",
-    "ref":"adharshinikumar\/screentime-vs-mentalwellness-survey-2025",
-    "description":"Mental health meets digital habits — survey data of 400 users on screen habits.",
-    "creator":"Adharshini Kumaresan",
-    "sizeMB":0.01,
-    "downloadCount":2340,
+    "title":"Student Performance Dataset",
+    "ref":"nabeelqureshitiii\/student-performance-dataset",
+    "description":"A generic data for ML Beginners ",
+    "creator":"Ghulam Muhammad Nabeel",
+    "sizeMB":8.93,
+    "downloadCount":4454,
     "usabilityRating":1.0,
     "tags":[
-      "categorical",
-      "employment",
-      "people and society",
-      "health",
-      "demographics"
+      "research",
+      "education",
+      "artificial intelligence",
+      "computer science",
+      "engineering"
     ],
-    "lastUpdated":1757864950683,
+    "lastUpdated":1756294092000,
     "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/adharshinikumar\/screentime-vs-mentalwellness-survey-2025"
+    "url":"https:\/\/www.kaggle.com\/datasets\/nabeelqureshitiii\/student-performance-dataset"
+  },
+  {
+    "title":"Novel Covid-19 Dataset",
+    "ref":"ghost5612\/novel-covid-19-dataset",
+    "description":"Day level Info On Covid-19 affected cases Worldwide",
+    "creator":"GHOST5612",
+    "sizeMB":8.52,
+    "downloadCount":1003,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "public health",
+      "health",
+      "law",
+      "data analytics",
+      "public safety"
+    ],
+    "lastUpdated":1758176632000,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ghost5612\/novel-covid-19-dataset"
+  },
+  {
+    "title":"Movie Dataset for Analytics & Visualization",
+    "ref":"mjshubham21\/movie-dataset-for-analytics-and-visualization",
+    "description":"Movie analytics dataset: genres, ratings, revenue & cast & more (1 million rows)",
+    "creator":"Shubham R Pawar",
+    "sizeMB":62.12,
+    "downloadCount":2889,
+    "usabilityRating":1.0,
+    "tags":[
+      "movies and tv shows",
+      "exploratory data analysis",
+      "data visualization",
+      "ratings and reviews",
+      "synthetic"
+    ],
+    "lastUpdated":1757333602823,
+    "ai_category":"Film & Television Media",
+    "url":"https:\/\/www.kaggle.com\/datasets\/mjshubham21\/movie-dataset-for-analytics-and-visualization"
   },
   {
     "title":"Health & Lifestyle Dataset",
@@ -304,7 +324,7 @@
     "description":"Health & lifestyle factors for ML, analytics, and prediction tasks",
     "creator":"Chik0di",
     "sizeMB":2.1,
-    "downloadCount":1638,
+    "downloadCount":1796,
     "usabilityRating":0.9411765,
     "tags":[
       "health and fitness",
@@ -318,42 +338,61 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/chik0di\/health-and-lifestyle-dataset"
   },
   {
-    "title":"Generative AI Tools & Platforms 2025",
-    "ref":"tarekmasryo\/generative-ai-tools-and-platforms-2025",
-    "description":"Generative AI tools (2025): categories, capabilities, open-source & API",
-    "creator":"Tarek Masryo",
-    "sizeMB":0.0,
-    "downloadCount":676,
+    "title":"BMW Worldwide Sales Records (2010–2024)",
+    "ref":"ahmadrazakashif\/bmw-worldwide-sales-records-20102024",
+    "description":"A complete dataset of BMW cars from 2010–2024 with attributes like model, year, ",
+    "creator":"Ahmad Raza Kashif",
+    "sizeMB":0.81,
+    "downloadCount":1215,
     "usabilityRating":1.0,
     "tags":[
       "business",
-      "artificial intelligence",
-      "computer science",
-      "deep learning",
-      "model comparison"
+      "marketing",
+      "automobiles and vehicles",
+      "data visualization",
+      "python"
     ],
-    "lastUpdated":1758204321000,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/tarekmasryo\/generative-ai-tools-and-platforms-2025"
+    "lastUpdated":1758379185000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ahmadrazakashif\/bmw-worldwide-sales-records-20102024"
   },
   {
-    "title":"Adult Income Prediction Dataset",
-    "ref":"mosapabdelghany\/adult-income-prediction-dataset",
-    "description":"Census-based dataset for income classification tasks",
-    "creator":"Mosap Abdel-Ghany",
-    "sizeMB":0.44,
-    "downloadCount":2646,
+    "title":"📊 US Oil & Gas Production & Disposition 2015–2025",
+    "ref":"pinuto\/us-oil-and-gas-production-and-disposition-20152025",
+    "description":"Monthly federal oil & gas volumes with production and disposition details ",
+    "creator":"Pinar Topuz",
+    "sizeMB":7.6,
+    "downloadCount":1269,
     "usabilityRating":1.0,
     "tags":[
-      "artificial intelligence",
-      "advanced",
-      "classification",
-      "naive bayes",
-      "regression"
+      "earth and nature",
+      "economics",
+      "energy",
+      "time series analysis",
+      "oil and gas"
     ],
-    "lastUpdated":1756382207000,
+    "lastUpdated":1758189424747,
+    "ai_category":"others",
+    "url":"https:\/\/www.kaggle.com\/datasets\/pinuto\/us-oil-and-gas-production-and-disposition-20152025"
+  },
+  {
+    "title":"Screen Time vs Mental Wellness Survey - 2025",
+    "ref":"adharshinikumar\/screentime-vs-mentalwellness-survey-2025",
+    "description":"Mental health meets digital habits — survey data of 400 users on screen habits.",
+    "creator":"Adharshini Kumaresan",
+    "sizeMB":0.01,
+    "downloadCount":2450,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "employment",
+      "people and society",
+      "health",
+      "demographics"
+    ],
+    "lastUpdated":1757864950683,
     "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/mosapabdelghany\/adult-income-prediction-dataset"
+    "url":"https:\/\/www.kaggle.com\/datasets\/adharshinikumar\/screentime-vs-mentalwellness-survey-2025"
   },
   {
     "title":"Melbourne Housing Snapshot",
@@ -361,7 +400,7 @@
     "description":"Snapshot of Tony Pino's Melbourne Housing Dataset",
     "creator":"DanB",
     "sizeMB":0.44,
-    "downloadCount":193521,
+    "downloadCount":193599,
     "usabilityRating":0.7058824,
     "tags":[
       "australia",
@@ -375,12 +414,65 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/dansbecker\/melbourne-housing-snapshot"
   },
   {
+    "title":"Adult Income Prediction Dataset",
+    "ref":"mosapabdelghany\/adult-income-prediction-dataset",
+    "description":"Census-based dataset for income classification tasks",
+    "creator":"Mosap Abdel-Ghany",
+    "sizeMB":0.44,
+    "downloadCount":2747,
+    "usabilityRating":1.0,
+    "tags":[
+      "artificial intelligence",
+      "advanced",
+      "classification",
+      "naive bayes",
+      "regression"
+    ],
+    "lastUpdated":1756382207000,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/mosapabdelghany\/adult-income-prediction-dataset"
+  },
+  {
+    "title":"Generative AI Tools & Platforms 2025",
+    "ref":"tarekmasryo\/generative-ai-tools-and-platforms-2025",
+    "description":"Generative AI tools (2025): categories, capabilities, open-source & API",
+    "creator":"Tarek Masryo",
+    "sizeMB":0.0,
+    "downloadCount":722,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "artificial intelligence",
+      "computer science",
+      "deep learning",
+      "model comparison"
+    ],
+    "lastUpdated":1758204321000,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/tarekmasryo\/generative-ai-tools-and-platforms-2025"
+  },
+  {
+    "title":"Used Car Price Prediction",
+    "ref":"vrajesh0sharma7\/used-car-price-prediction",
+    "description":"Comprehensive Used Car Dataset from India with shape (7400,29)",
+    "creator":"Vrajesh Sharma",
+    "sizeMB":0.37,
+    "downloadCount":1925,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "regression"
+    ],
+    "lastUpdated":1758284179927,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/vrajesh0sharma7\/used-car-price-prediction"
+  },
+  {
     "title":"Shopping behaviours dataset",
     "ref":"zubairamuti\/shopping-behaviours-dataset",
     "description":"E-Commerce Transaction Trends: A Comprehensive Dataset:",
     "creator":"Zubaira Maimona",
     "sizeMB":0.07,
-    "downloadCount":4459,
+    "downloadCount":4571,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -394,27 +486,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/zubairamuti\/shopping-behaviours-dataset"
   },
   {
-    "title":"Used Car Price Prediction",
-    "ref":"vrajesh0sharma7\/used-car-price-prediction",
-    "description":"Comprehensive Used Car Dataset from India with shape (7400,29)",
-    "creator":"Vrajesh Sharma",
-    "sizeMB":0.37,
-    "downloadCount":1888,
-    "usabilityRating":0.9411765,
-    "tags":[
-      "regression"
-    ],
-    "lastUpdated":1758284179927,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/vrajesh0sharma7\/used-car-price-prediction"
-  },
-  {
     "title":"Wine Reviews",
     "ref":"zynicide\/wine-reviews",
     "description":"130k wine reviews with variety, location, winery, price, and description",
     "creator":"zackthoutt",
     "sizeMB":50.87,
-    "downloadCount":336903,
+    "downloadCount":336985,
     "usabilityRating":0.7941176,
     "tags":[
       "alcohol"
@@ -429,7 +506,7 @@
     "description":"Daily statistics for trending YouTube videos",
     "creator":"Timo Bozsolik",
     "sizeMB":200.82,
-    "downloadCount":284964,
+    "downloadCount":285079,
     "usabilityRating":0.7941176,
     "tags":[
       "languages",
@@ -448,7 +525,7 @@
     "description":"Dataset for Salary Prediction Based on Experience and Education.",
     "creator":"Warda Bilal",
     "sizeMB":0.02,
-    "downloadCount":2660,
+    "downloadCount":2731,
     "usabilityRating":1.0,
     "tags":[
       "employment",
@@ -462,50 +539,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/wardabilal\/salary-prediction-dataset"
   },
   {
-    "title":"Coffee Sales Dataset",
-    "ref":"navjotkaushal\/coffee-sales-dataset",
-    "description":"Coffe Sales Transaction Dataset",
-    "creator":"Navjot Kaushal",
-    "sizeMB":0.04,
-    "downloadCount":14166,
-    "usabilityRating":0.8235294,
-    "tags":[
-      "business",
-      "education",
-      "data visualization",
-      "food",
-      "data storytelling"
-    ],
-    "lastUpdated":1755596250057,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/navjotkaushal\/coffee-sales-dataset"
-  },
-  {
-    "title":"DataCamp Courses Metadata",
-    "ref":"michaelmatta0\/datacamp-courses-metadata",
-    "description":"Personal Learning Analytics: DataCamp Courses, Tracks, and Educational Metadata",
-    "creator":"Michael Matta",
-    "sizeMB":0.05,
-    "downloadCount":436,
-    "usabilityRating":1.0,
-    "tags":[
-      "education",
-      "exploratory data analysis",
-      "data visualization",
-      "data analytics",
-      "plotly"
-    ],
-    "lastUpdated":1758790524673,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/michaelmatta0\/datacamp-courses-metadata"
-  },
-  {
     "title":"Chess Game Dataset (Lichess)",
     "ref":"datasnaek\/chess",
     "description":"20,000+ Lichess Games, including moves, victor, rating, opening details and more",
     "creator":"Mitchell J",
     "sizeMB":2.77,
-    "downloadCount":58612,
+    "downloadCount":58634,
     "usabilityRating":0.8235294,
     "tags":[
       "games",
@@ -518,23 +557,20 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/datasnaek\/chess"
   },
   {
-    "title":"Salary.Data",
-    "ref":"ahmadrazakashif\/salary-data",
-    "description":"\"Insights into Pay Trends and Compensation Structures\"",
-    "creator":"Ahmad Raza Kashif",
-    "sizeMB":0.02,
-    "downloadCount":1157,
-    "usabilityRating":1.0,
+    "title":"powerlifting-database",
+    "ref":"dansbecker\/powerlifting-database",
+    "description":"An unchanging copy of the Powerlifting Database",
+    "creator":"DanB",
+    "sizeMB":8.85,
+    "downloadCount":22709,
+    "usabilityRating":0.5882353,
     "tags":[
-      "employment",
-      "income",
-      "business",
-      "finance",
-      "python"
+      "exercise",
+      "computer science"
     ],
-    "lastUpdated":1757067875733,
+    "lastUpdated":1556658461000,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/ahmadrazakashif\/salary-data"
+    "url":"https:\/\/www.kaggle.com\/datasets\/dansbecker\/powerlifting-database"
   },
   {
     "title":"Kepler Exoplanet Search Results",
@@ -542,7 +578,7 @@
     "description":"10000 exoplanet candidates examined by the Kepler Space Observatory",
     "creator":"Aleksey Bilogur",
     "sizeMB":1.16,
-    "downloadCount":19662,
+    "downloadCount":19681,
     "usabilityRating":0.8235294,
     "tags":[
       "earth and nature",
@@ -555,28 +591,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/nasa\/kepler-exoplanet-search-results"
   },
   {
-    "title":"powerlifting-database",
-    "ref":"dansbecker\/powerlifting-database",
-    "description":"An unchanging copy of the Powerlifting Database",
-    "creator":"DanB",
-    "sizeMB":8.85,
-    "downloadCount":22698,
-    "usabilityRating":0.5882353,
-    "tags":[
-      "exercise",
-      "computer science"
-    ],
-    "lastUpdated":1556658461000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/dansbecker\/powerlifting-database"
-  },
-  {
     "title":"1.88 Million US Wildfires",
     "ref":"rtatman\/188-million-us-wildfires",
     "description":"24 years of geo-referenced wildfire records",
     "creator":"Timo Bozsolik",
     "sizeMB":168.1,
-    "downloadCount":40095,
+    "downloadCount":40108,
     "usabilityRating":0.8235294,
     "tags":[
       "business"
@@ -591,7 +611,7 @@
     "description":"Over 2500 ramen ratings",
     "creator":"Aleksey Bilogur",
     "sizeMB":0.04,
-    "downloadCount":52688,
+    "downloadCount":52703,
     "usabilityRating":0.7058824,
     "tags":[
       "asia",
@@ -603,28 +623,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/residentmario\/ramen-ratings"
   },
   {
-    "title":"US Public Food Assistance 1 - WIC",
-    "ref":"jpmiller\/publicassistance",
-    "description":"Where does it come from, who spends it, who gets it.",
-    "creator":"JohnM",
-    "sizeMB":0.29,
-    "downloadCount":23869,
-    "usabilityRating":0.9411765,
-    "tags":[
-      "tabular",
-      "social issues and advocacy"
-    ],
-    "lastUpdated":1681761665000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/jpmiller\/publicassistance"
-  },
-  {
     "title":"Things on Reddit",
     "ref":"residentmario\/things-on-reddit",
     "description":"The top 100 products in each subreddit from 2015 to 2017",
     "creator":"Aleksey Bilogur",
     "sizeMB":16.0,
-    "downloadCount":14196,
+    "downloadCount":14198,
     "usabilityRating":0.5882353,
     "tags":[
       "business",
@@ -637,12 +641,28 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/residentmario\/things-on-reddit"
   },
   {
+    "title":"US Public Food Assistance 1 - WIC",
+    "ref":"jpmiller\/publicassistance",
+    "description":"Where does it come from, who spends it, who gets it.",
+    "creator":"JohnM",
+    "sizeMB":0.29,
+    "downloadCount":23871,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "tabular",
+      "social issues and advocacy"
+    ],
+    "lastUpdated":1681761665000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/jpmiller\/publicassistance"
+  },
+  {
     "title":"18,393 Pitchfork Reviews",
     "ref":"nolanbconaway\/pitchfork-data",
     "description":"Pitchfork reviews from Jan 5, 1999 to Jan 8, 2017",
     "creator":"Nolan Conaway",
     "sizeMB":33.28,
-    "downloadCount":16295,
+    "downloadCount":16300,
     "usabilityRating":0.7058824,
     "tags":[
       "music",
@@ -653,23 +673,60 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/nolanbconaway\/pitchfork-data"
   },
   {
-    "title":"📊 US Oil & Gas Production & Disposition 2015–2025",
-    "ref":"pinuto\/us-oil-and-gas-production-and-disposition-20152025",
-    "description":"Monthly federal oil & gas volumes with production and disposition details ",
-    "creator":"Pinar Topuz",
-    "sizeMB":7.6,
-    "downloadCount":1233,
+    "title":"Salary.Data",
+    "ref":"ahmadrazakashif\/salary-data",
+    "description":"\"Insights into Pay Trends and Compensation Structures\"",
+    "creator":"Ahmad Raza Kashif",
+    "sizeMB":0.02,
+    "downloadCount":1193,
     "usabilityRating":1.0,
     "tags":[
-      "earth and nature",
-      "economics",
-      "energy",
-      "time series analysis",
-      "oil and gas"
+      "employment",
+      "income",
+      "business",
+      "finance",
+      "python"
     ],
-    "lastUpdated":1758189424747,
-    "ai_category":"others",
-    "url":"https:\/\/www.kaggle.com\/datasets\/pinuto\/us-oil-and-gas-production-and-disposition-20152025"
+    "lastUpdated":1757067875733,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ahmadrazakashif\/salary-data"
+  },
+  {
+    "title":"TeoMeWhy Education Platform",
+    "ref":"teocalvo\/teomewhy-education-platform",
+    "description":"Dados reais da plataforma de cursos abertos do Téo Me Why",
+    "creator":"Teo Calvo",
+    "sizeMB":1.24,
+    "downloadCount":283,
+    "usabilityRating":1.0,
+    "tags":[
+      "brazil",
+      "education",
+      "intermediate",
+      "tabular"
+    ],
+    "lastUpdated":1759154231283,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/teocalvo\/teomewhy-education-platform"
+  },
+  {
+    "title":"DataCamp Courses Metadata",
+    "ref":"michaelmatta0\/datacamp-courses-metadata",
+    "description":"Personal Learning Analytics: DataCamp Courses, Tracks, and Educational Metadata",
+    "creator":"Michael Matta",
+    "sizeMB":0.05,
+    "downloadCount":453,
+    "usabilityRating":1.0,
+    "tags":[
+      "education",
+      "exploratory data analysis",
+      "data visualization",
+      "data analytics",
+      "plotly"
+    ],
+    "lastUpdated":1758790524673,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/michaelmatta0\/datacamp-courses-metadata"
   },
   {
     "title":"Mobile Price Classification",
@@ -677,7 +734,7 @@
     "description":"Classify Mobile Price Range",
     "creator":"Abhishek Sharma",
     "sizeMB":0.07,
-    "downloadCount":235911,
+    "downloadCount":236066,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
@@ -688,23 +745,23 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/iabhishekofficial\/mobile-price-classification"
   },
   {
-    "title":"Health and Fitness Tracking 365 Days for 1000 User",
-    "ref":"waqasishtiaq\/fitness",
-    "description":"Fitness tracking goals",
-    "creator":"Waqas Ishtiaq",
-    "sizeMB":21.35,
-    "downloadCount":779,
+    "title":"Global House Purchase Decision Dataset",
+    "ref":"mohankrishnathalla\/global-house-purchase-decision-dataset",
+    "description":"A global dataset of property and buyer decision factors with 200k entries",
+    "creator":"Mohan Krishna Thalla",
+    "sizeMB":7.42,
+    "downloadCount":955,
     "usabilityRating":1.0,
     "tags":[
-      "health and fitness",
-      "exercise",
-      "health",
-      "artificial intelligence",
-      "tabular"
+      "global",
+      "housing",
+      "finance",
+      "real estate",
+      "classification"
     ],
-    "lastUpdated":1757716015000,
+    "lastUpdated":1758089244617,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/waqasishtiaq\/fitness"
+    "url":"https:\/\/www.kaggle.com\/datasets\/mohankrishnathalla\/global-house-purchase-decision-dataset"
   },
   {
     "title":"Healthy Eating Dataset",
@@ -712,7 +769,7 @@
     "description":"Meals with Calorie & Nutrition Estimates for Computer Vision + Health Analytics",
     "creator":"Khushi Yadav",
     "sizeMB":0.08,
-    "downloadCount":495,
+    "downloadCount":1008,
     "usabilityRating":1.0,
     "tags":[
       "health and fitness",
@@ -725,50 +782,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/khushikyad001\/healthy-eating-dataset"
   },
   {
-    "title":"E-commerce Sales Transactions Dataset",
-    "ref":"miadul\/e-commerce-sales-transactions-dataset",
-    "description":"EDA, Feature Engineering, and Machine Learning on E-Commerce Sales Dataset",
-    "creator":"Arif Miah",
-    "sizeMB":0.99,
-    "downloadCount":1238,
-    "usabilityRating":0.7058824,
-    "tags":[
-      "business",
-      "artificial intelligence",
-      "beginner",
-      "data analytics",
-      "regression"
-    ],
-    "lastUpdated":1757603755000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/miadul\/e-commerce-sales-transactions-dataset"
-  },
-  {
-    "title":"Spotify_Popularity.Songs",
-    "ref":"ahmadrazakashif\/spotify-popularity-songs",
-    "description":"A Comprehensive Collection of Trending Spotify Tracks with Audio Features and P",
-    "creator":"Ahmad Raza Kashif",
-    "sizeMB":0.05,
-    "downloadCount":1452,
-    "usabilityRating":1.0,
-    "tags":[
-      "music",
-      "audio",
-      "python",
-      "audio-to-audio",
-      "video audio text"
-    ],
-    "lastUpdated":1757672184563,
-    "ai_category":"Music & Audio Trends",
-    "url":"https:\/\/www.kaggle.com\/datasets\/ahmadrazakashif\/spotify-popularity-songs"
-  },
-  {
     "title":"home data for ml course",
     "ref":"dansbecker\/home-data-for-ml-course",
     "description":"Data for Learn ML Course. Same as the Housing Price Getting Started Competition",
     "creator":"DanB",
     "sizeMB":0.09,
-    "downloadCount":25366,
+    "downloadCount":25377,
     "usabilityRating":0.3529412,
     "tags":[
       "education"
@@ -783,7 +802,7 @@
     "description":"Electronics Products Dataset with 17 Key Features Including Ratings, Sales & Cat",
     "creator":"Ikram Ul Hassan",
     "sizeMB":7.71,
-    "downloadCount":4786,
+    "downloadCount":4879,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -797,12 +816,65 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/ikramshah512\/amazon-products-sales-dataset-42k-items-2025"
   },
   {
+    "title":"Exploring Coffee Sales with EDA & Visualization",
+    "ref":"wardabilal\/exploring-coffee-sales-with-eda-and-visualization",
+    "description":"Analyzing Coffee Shop Sales Trends and Customer Purchasing Behavior",
+    "creator":"Warda Bilal",
+    "sizeMB":0.04,
+    "downloadCount":138,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "retail and shopping"
+    ],
+    "lastUpdated":1758622454000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/wardabilal\/exploring-coffee-sales-with-eda-and-visualization"
+  },
+  {
+    "title":"BMW_Sales_Dataset",
+    "ref":"eshummalik\/bmw-sales-dataset",
+    "description":"BMW -The Ultimate Blend of Power , Luxury and Innovation",
+    "creator":"Eshum_malik",
+    "sizeMB":0.81,
+    "downloadCount":3140,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "image",
+      "multimodal",
+      "synthetic"
+    ],
+    "lastUpdated":1757060914000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/eshummalik\/bmw-sales-dataset"
+  },
+  {
+    "title":"Spotify_Popularity.Songs",
+    "ref":"ahmadrazakashif\/spotify-popularity-songs",
+    "description":"A Comprehensive Collection of Trending Spotify Tracks with Audio Features and P",
+    "creator":"Ahmad Raza Kashif",
+    "sizeMB":0.05,
+    "downloadCount":1501,
+    "usabilityRating":1.0,
+    "tags":[
+      "music",
+      "audio",
+      "python",
+      "audio-to-audio",
+      "video audio text"
+    ],
+    "lastUpdated":1757672184563,
+    "ai_category":"Music & Audio Trends",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ahmadrazakashif\/spotify-popularity-songs"
+  },
+  {
     "title":"Sleep Disorder Diagnosis Dataset",
     "ref":"mdsultanulislamovi\/sleep-disorder-diagnosis-dataset",
     "description":"Dataset on sleep, lifestyle habits, and health indicators for analysis and AIML",
     "creator":"Sultanul Ovi",
     "sizeMB":0.0,
-    "downloadCount":2214,
+    "downloadCount":2244,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -821,7 +893,7 @@
     "description":"https:\/\/deepvisualmarketing",
     "creator":"Omar Essa",
     "sizeMB":15.58,
-    "downloadCount":1719,
+    "downloadCount":1764,
     "usabilityRating":0.9411765,
     "tags":[
       "computer science",
@@ -835,40 +907,20 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/jockeroika\/cars-dataset"
   },
   {
-    "title":"UFC 2025 Dataset : Fights, Fighters & Events",
-    "ref":"aminealibi\/ufc-fights-fighters-and-events-dataset",
-    "description":"The most up-to-date dataset,covering events from 1994 - 2025 (UFC 2 -- UFC 319) ",
-    "creator":"Amine Alibi",
-    "sizeMB":2.73,
-    "downloadCount":813,
+    "title":"coffee sales",
+    "ref":"brandmustafa\/coffee-sales",
+    "description":"coffee shop for every people",
+    "creator":"Ghulam Mustafa",
+    "sizeMB":0.04,
+    "downloadCount":237,
     "usabilityRating":1.0,
     "tags":[
-      "sports",
-      "exploratory data analysis",
-      "data cleaning",
-      "clustering",
-      "recommender systems"
+      "python",
+      "graph"
     ],
-    "lastUpdated":1759091377503,
-    "ai_category":"Fandoms & Cultural Expression",
-    "url":"https:\/\/www.kaggle.com\/datasets\/aminealibi\/ufc-fights-fighters-and-events-dataset"
-  },
-  {
-    "title":"Football Players Stats (2025-2026)",
-    "ref":"hubertsidorowicz\/football-players-stats-2025-2026",
-    "description":"Player statistics from the 2025-2026 season from the top 5 European Leagues.",
-    "creator":"Hubert Sidorowicz",
-    "sizeMB":0.73,
-    "downloadCount":1255,
-    "usabilityRating":1.0,
-    "tags":[
-      "football",
-      "sports",
-      "statistical analysis"
-    ],
-    "lastUpdated":1759148826107,
-    "ai_category":"Fandoms & Cultural Expression",
-    "url":"https:\/\/www.kaggle.com\/datasets\/hubertsidorowicz\/football-players-stats-2025-2026"
+    "lastUpdated":1758620199000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/brandmustafa\/coffee-sales"
   },
   {
     "title":"Global Coffee Health Dataset",
@@ -876,7 +928,7 @@
     "description":"Dataset of coffee consumption, sleep patterns, and health outcomes worldwide",
     "creator":"Laksika Tharmalingam",
     "sizeMB":0.18,
-    "downloadCount":5171,
+    "downloadCount":5261,
     "usabilityRating":1.0,
     "tags":[
       "alcohol",
@@ -889,60 +941,40 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/uom190346a\/global-coffee-health-dataset"
   },
   {
-    "title":"Global House Purchase Decision Dataset",
-    "ref":"mohankrishnathalla\/global-house-purchase-decision-dataset",
-    "description":"A global dataset of property and buyer decision factors with 200k entries",
-    "creator":"Mohan Krishna Thalla",
-    "sizeMB":7.42,
-    "downloadCount":418,
+    "title":"Football Players Stats (2025-2026)",
+    "ref":"hubertsidorowicz\/football-players-stats-2025-2026",
+    "description":"Player statistics from the 2025-2026 season from the top 5 European Leagues.",
+    "creator":"Hubert Sidorowicz",
+    "sizeMB":0.73,
+    "downloadCount":1274,
     "usabilityRating":1.0,
     "tags":[
-      "global",
-      "housing",
-      "finance",
-      "real estate",
-      "classification"
+      "football",
+      "sports",
+      "statistical analysis"
     ],
-    "lastUpdated":1758089244617,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/mohankrishnathalla\/global-house-purchase-decision-dataset"
+    "lastUpdated":1759148826107,
+    "ai_category":"Fandoms & Cultural Expression",
+    "url":"https:\/\/www.kaggle.com\/datasets\/hubertsidorowicz\/football-players-stats-2025-2026"
   },
   {
-    "title":"Car_sales_info",
-    "ref":"minahilfatima12328\/car-sales-info",
-    "description":"Car Sales Trends and Prices",
-    "creator":"Minahil Fatima",
-    "sizeMB":0.48,
-    "downloadCount":2100,
-    "usabilityRating":1.0,
+    "title":"E-commerce Sales Transactions Dataset",
+    "ref":"miadul\/e-commerce-sales-transactions-dataset",
+    "description":"EDA, Feature Engineering, and Machine Learning on E-Commerce Sales Dataset",
+    "creator":"Arif Miah",
+    "sizeMB":0.99,
+    "downloadCount":1315,
+    "usabilityRating":0.7058824,
     "tags":[
       "business",
-      "economics",
-      "automobiles and vehicles",
-      "data cleaning",
-      "data visualization"
+      "artificial intelligence",
+      "beginner",
+      "data analytics",
+      "regression"
     ],
-    "lastUpdated":1757164900000,
+    "lastUpdated":1757603755000,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/minahilfatima12328\/car-sales-info"
-  },
-  {
-    "title":"BMW_Sales_Dataset",
-    "ref":"eshummalik\/bmw-sales-dataset",
-    "description":"BMW -The Ultimate Blend of Power , Luxury and Innovation",
-    "creator":"Eshum_malik",
-    "sizeMB":0.81,
-    "downloadCount":3012,
-    "usabilityRating":1.0,
-    "tags":[
-      "categorical",
-      "image",
-      "multimodal",
-      "synthetic"
-    ],
-    "lastUpdated":1757060914000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/eshummalik\/bmw-sales-dataset"
+    "url":"https:\/\/www.kaggle.com\/datasets\/miadul\/e-commerce-sales-transactions-dataset"
   },
   {
     "title":"HR Dataset (Multinational Company)",
@@ -950,7 +982,7 @@
     "description":"Analyse HR Data of a MNC with Python",
     "creator":"Data Science Lovers",
     "sizeMB":66.69,
-    "downloadCount":3763,
+    "downloadCount":3798,
     "usabilityRating":1.0,
     "tags":[
       "employment",
@@ -961,7 +993,7 @@
       "python"
     ],
     "lastUpdated":1755931988000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/rohitgrewal\/hr-data-mnc"
   },
   {
@@ -970,7 +1002,7 @@
     "description":"Global YouTube Shorts & TikTok trends, creators, and hashtags in 2025",
     "creator":"Tarek Masryo",
     "sizeMB":14.29,
-    "downloadCount":1956,
+    "downloadCount":1980,
     "usabilityRating":1.0,
     "tags":[
       "arts and entertainment",
@@ -984,39 +1016,42 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/tarekmasryo\/youtube-shorts-and-tiktok-trends-2025"
   },
   {
-    "title":"Flight Delay Dataset — 2024",
-    "ref":"hrishitpatil\/flight-data-2024",
-    "description":"2024 Flight Delays: 7M+ Rows for ML, EDA, and Insights",
-    "creator":"Hrishit Patil",
-    "sizeMB":270.41,
-    "downloadCount":165,
+    "title":"Car_sales_info",
+    "ref":"minahilfatima12328\/car-sales-info",
+    "description":"Car Sales Trends and Prices",
+    "creator":"Minahil Fatima",
+    "sizeMB":0.48,
+    "downloadCount":2131,
     "usabilityRating":1.0,
     "tags":[
-      "united states",
-      "aviation",
-      "exploratory data analysis",
-      "data visualization",
-      "travel"
+      "business",
+      "economics",
+      "automobiles and vehicles",
+      "data cleaning",
+      "data visualization"
     ],
-    "lastUpdated":1758473481167,
+    "lastUpdated":1757164900000,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/hrishitpatil\/flight-data-2024"
+    "url":"https:\/\/www.kaggle.com\/datasets\/minahilfatima12328\/car-sales-info"
   },
   {
-    "title":"coffee sales",
-    "ref":"brandmustafa\/coffee-sales",
-    "description":"coffee shop for every people",
-    "creator":"Ghulam Mustafa",
-    "sizeMB":0.04,
-    "downloadCount":148,
+    "title":"Health and Fitness Tracking 365 Days for 1000 User",
+    "ref":"waqasishtiaq\/fitness",
+    "description":"Fitness tracking goals",
+    "creator":"Waqas Ishtiaq",
+    "sizeMB":21.35,
+    "downloadCount":815,
     "usabilityRating":1.0,
     "tags":[
-      "python",
-      "graph"
+      "health and fitness",
+      "exercise",
+      "health",
+      "artificial intelligence",
+      "tabular"
     ],
-    "lastUpdated":1758620199000,
+    "lastUpdated":1757716015000,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/brandmustafa\/coffee-sales"
+    "url":"https:\/\/www.kaggle.com\/datasets\/waqasishtiaq\/fitness"
   },
   {
     "title":"Medical_Insurance cost Dataset",
@@ -1024,7 +1059,7 @@
     "description":"\"Analyzing the Impact of Demographic and Lifestyle Factors on Medical Insurance\"",
     "creator":"varisha batool",
     "sizeMB":0.02,
-    "downloadCount":730,
+    "downloadCount":763,
     "usabilityRating":1.0,
     "tags":[
       "asia",
@@ -1038,12 +1073,95 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/varishabatool\/data-set"
   },
   {
+    "title":"Student Academic Stress Real World Dataset",
+    "ref":"poushal02\/student-academic-stress-real-world-dataset",
+    "description":"The academic stress of students in current days.",
+    "creator":"Poushali Bhattacharyya",
+    "sizeMB":0.0,
+    "downloadCount":8926,
+    "usabilityRating":1.0,
+    "tags":[
+      "universities and colleges",
+      "india",
+      "classification"
+    ],
+    "lastUpdated":1755676152000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/poushal02\/student-academic-stress-real-world-dataset"
+  },
+  {
+    "title":"Caffeine Collective",
+    "ref":"ayeshaimran123\/caffeine-collective",
+    "description":"Collective Energy , Crafted with Coffee",
+    "creator":"Ayesha Imran",
+    "sizeMB":0.04,
+    "downloadCount":469,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "data cleaning",
+      "data visualization"
+    ],
+    "lastUpdated":1756996508633,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ayeshaimran123\/caffeine-collective"
+  },
+  {
+    "title":"Universities — Wikidata Sample",
+    "ref":"ibrahimqasimi\/wilierds",
+    "description":"Institutions with labels, country and coords",
+    "creator":"1!",
+    "sizeMB":0.06,
+    "downloadCount":313,
+    "usabilityRating":1.0,
+    "tags":[
+      "universities and colleges",
+      "global",
+      "beginner",
+      "tabular"
+    ],
+    "lastUpdated":1756968337557,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ibrahimqasimi\/wilierds"
+  },
+  {
+    "title":"Dogs Vs Cats",
+    "ref":"princelv84\/dogsvscats",
+    "description":"Dogs Vs Cats CNN Classifier",
+    "creator":"Lovnish Verma",
+    "sizeMB":544.66,
+    "downloadCount":448,
+    "usabilityRating":0.625,
+    "tags":[
+
+    ],
+    "lastUpdated":1758653485187,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/princelv84\/dogsvscats"
+  },
+  {
+    "title":"Credit Card Fraud Detection",
+    "ref":"mlg-ulb\/creditcardfraud",
+    "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
+    "creator":"Timo Bozsolik",
+    "sizeMB":65.95,
+    "downloadCount":994881,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "crime",
+      "finance"
+    ],
+    "lastUpdated":1521767847913,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/mlg-ulb\/creditcardfraud"
+  },
+  {
     "title":"Infant Wellness and Risk Evaluation Dataset",
     "ref":"mubeenshehzadi\/infant-wellness-and-risk-evaluation-dataset",
     "description":"Tracking newborn health and risks",
     "creator":"Mubeen Shehzadi",
     "sizeMB":0.06,
-    "downloadCount":288,
+    "downloadCount":330,
     "usabilityRating":1.0,
     "tags":[
       "categorical",
@@ -1056,48 +1174,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/mubeenshehzadi\/infant-wellness-and-risk-evaluation-dataset"
   },
   {
-    "title":"World Cities, Countries & Languages Dataset",
-    "ref":"adilshamim8\/world-cities-countries-and-languages-dataset",
-    "description":"Population, geography, and language statistics for global analysis",
-    "creator":"Adil Shamim",
-    "sizeMB":0.08,
-    "downloadCount":1255,
-    "usabilityRating":1.0,
-    "tags":[
-      "languages",
-      "people",
-      "people and society",
-      "social science",
-      "social networks"
-    ],
-    "lastUpdated":1757513491237,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/adilshamim8\/world-cities-countries-and-languages-dataset"
-  },
-  {
-    "title":"Student Academic Stress Real World Dataset",
-    "ref":"poushal02\/student-academic-stress-real-world-dataset",
-    "description":"The academic stress of students in current days.",
-    "creator":"Poushali Bhattacharyya",
-    "sizeMB":0.0,
-    "downloadCount":8830,
-    "usabilityRating":1.0,
-    "tags":[
-      "universities and colleges",
-      "india",
-      "classification"
-    ],
-    "lastUpdated":1755676152000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/poushal02\/student-academic-stress-real-world-dataset"
-  },
-  {
     "title":"Gold-Silver Price VS Geopolitical Risk (1985–2025)",
     "ref":"shreyanshdangi\/gold-silver-price-vs-geopolitical-risk-19852025",
     "description":"40+ Years of Daily Gold & Silver Prices Linked to Global Geopolitical Risk🌍⚠️💰",
     "creator":"Shreyansh Dangi",
     "sizeMB":0.73,
-    "downloadCount":625,
+    "downloadCount":645,
     "usabilityRating":1.0,
     "tags":[
       "data visualization",
@@ -1106,168 +1188,84 @@
       "oil and gas"
     ],
     "lastUpdated":1757527433000,
-    "ai_category":"Internet & Digital Culture",
+    "ai_category":"Lifestyle & Consumer Aesthetics",
     "url":"https:\/\/www.kaggle.com\/datasets\/shreyanshdangi\/gold-silver-price-vs-geopolitical-risk-19852025"
   },
   {
-    "title":"TeoMeWhy Education Platform",
-    "ref":"teocalvo\/teomewhy-education-platform",
-    "description":"Dados reais da plataforma de cursos abertos do Téo Me Why",
-    "creator":"Teo Calvo",
-    "sizeMB":1.24,
-    "downloadCount":263,
-    "usabilityRating":1.0,
-    "tags":[
-      "brazil",
-      "education",
-      "intermediate",
-      "tabular"
-    ],
-    "lastUpdated":1759154231283,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/teocalvo\/teomewhy-education-platform"
-  },
-  {
-    "title":"Dogs Vs Cats",
-    "ref":"princelv84\/dogsvscats",
-    "description":"Dogs Vs Cats CNN Classifier",
-    "creator":"Lovnish Verma",
-    "sizeMB":544.66,
-    "downloadCount":441,
-    "usabilityRating":0.625,
-    "tags":[
-
-    ],
-    "lastUpdated":1758653485187,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/princelv84\/dogsvscats"
-  },
-  {
-    "title":"Ecommerce Dataset for Analysis ",
-    "ref":"nabihazahid\/ecommerce-dataset-for-sql-analysis",
-    "description":"synthetically generated dataset for practice.",
-    "creator":"nabiha zahid",
-    "sizeMB":0.32,
-    "downloadCount":565,
-    "usabilityRating":1.0,
-    "tags":[
-      "data cleaning",
-      "data visualization",
-      "classification",
-      "python",
-      "sql"
-    ],
-    "lastUpdated":1756080566967,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/nabihazahid\/ecommerce-dataset-for-sql-analysis"
-  },
-  {
-    "title":"Student Result",
-    "ref":"brandmustafa\/student-result",
-    "description":"Academic Achievement",
-    "creator":"Ghulam Mustafa",
+    "title":"FRED: U.S. Advance Retail Sales Dataset",
+    "ref":"swatih\/fred-u-s-advance-retail-sales-dataset",
+    "description":"Monthly U.S. retail sales data, including e-commerce, compiled by the U.S. Censu",
+    "creator":"Swati Hegde",
     "sizeMB":0.0,
-    "downloadCount":556,
+    "downloadCount":301,
     "usabilityRating":1.0,
     "tags":[
-      "education"
-    ],
-    "lastUpdated":1756822143267,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/brandmustafa\/student-result"
-  },
-  {
-    "title":"Caffeine Collective",
-    "ref":"ayeshaimran123\/caffeine-collective",
-    "description":"Collective Energy , Crafted with Coffee",
-    "creator":"Ayesha Imran",
-    "sizeMB":0.04,
-    "downloadCount":425,
-    "usabilityRating":1.0,
-    "tags":[
-      "categorical",
-      "data cleaning",
-      "data visualization"
-    ],
-    "lastUpdated":1756996508633,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/ayeshaimran123\/caffeine-collective"
-  },
-  {
-    "title":"Board Games Dataset Complete Features",
-    "ref":"chik0di\/board-games-dataset-complete-features",
-    "description":" Marketplace section deprecated except Amazon price. All Versions Accessible.",
-    "creator":"Chik0di",
-    "sizeMB":1.62,
-    "downloadCount":1247,
-    "usabilityRating":1.0,
-    "tags":[
-      "arts and entertainment",
-      "games",
-      "board games",
-      "exploratory data analysis",
-      "data visualization"
-    ],
-    "lastUpdated":1757955659963,
-    "ai_category":"Gaming & Interactive Media",
-    "url":"https:\/\/www.kaggle.com\/datasets\/chik0di\/board-games-dataset-complete-features"
-  },
-  {
-    "title":"Job Descriptions 2025 – Tech & Non-Tech Roles",
-    "ref":"adityarajsrv\/job-descriptions-2025-tech-and-non-tech-roles",
-    "description":"1,100 Synthetic Job Descriptions for Tech & Non-Tech Roles",
-    "creator":"Aditya Raj Srivastava",
-    "sizeMB":0.2,
-    "downloadCount":1179,
-    "usabilityRating":1.0,
-    "tags":[
-      "artificial intelligence",
-      "nlp",
-      "jobs and career",
-      "english",
-      "synthetic"
-    ],
-    "lastUpdated":1756671166000,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/adityarajsrv\/job-descriptions-2025-tech-and-non-tech-roles"
-  },
-  {
-    "title":"Amazon_Fashion_Products",
-    "ref":"poorveshchaudhari\/amazon-fashion-products",
-    "description":"13K+ e-commerce products with brand, price, rating, and category details",
-    "creator":"Poorvesh",
-    "sizeMB":0.67,
-    "downloadCount":1566,
-    "usabilityRating":1.0,
-    "tags":[
-      "clothing and accessories",
-      "artificial intelligence",
-      "computer vision",
-      "image",
-      "e-commerce services"
-    ],
-    "lastUpdated":1756728574197,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/poorveshchaudhari\/amazon-fashion-products"
-  },
-  {
-    "title":"Global Climate Events and Economic Impact Dataset",
-    "ref":"uom190346a\/global-climate-events-and-economic-impact-dataset",
-    "description":"The dataset contains 3,000+ climate events across 51 countries from 2020 to 2025",
-    "creator":"Laksika Tharmalingam",
-    "sizeMB":0.1,
-    "downloadCount":905,
-    "usabilityRating":1.0,
-    "tags":[
-      "global",
-      "atmospheric science",
-      "advanced",
+      "universities and colleges",
+      "time series analysis",
       "tabular",
-      "evaluation"
+      "regression",
+      "retail and shopping"
     ],
-    "lastUpdated":1758179737253,
+    "lastUpdated":1757365612000,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/uom190346a\/global-climate-events-and-economic-impact-dataset"
+    "url":"https:\/\/www.kaggle.com\/datasets\/swatih\/fred-u-s-advance-retail-sales-dataset"
+  },
+  {
+    "title":"Flight Delay Dataset — 2024",
+    "ref":"hrishitpatil\/flight-data-2024",
+    "description":"2024 Flight Delays: 7M+ Rows for ML, EDA, and Insights",
+    "creator":"Hrishit Patil",
+    "sizeMB":270.41,
+    "downloadCount":236,
+    "usabilityRating":1.0,
+    "tags":[
+      "united states",
+      "aviation",
+      "exploratory data analysis",
+      "data visualization",
+      "travel"
+    ],
+    "lastUpdated":1758473481167,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/hrishitpatil\/flight-data-2024"
+  },
+  {
+    "title":"Titanic Dataset",
+    "ref":"yasserh\/titanic-dataset",
+    "description":"Titanic Survival Prediction Dataset",
+    "creator":"M Yasser H",
+    "sizeMB":0.02,
+    "downloadCount":213131,
+    "usabilityRating":1.0,
+    "tags":[
+      "natural disasters",
+      "beginner",
+      "classification",
+      "tabular",
+      "binary classification"
+    ],
+    "lastUpdated":1640357586913,
+    "ai_category":"Film & Television Media",
+    "url":"https:\/\/www.kaggle.com\/datasets\/yasserh\/titanic-dataset"
+  },
+  {
+    "title":"Data Science Job Postings with Salaries (2025)",
+    "ref":"elahehgolrokh\/data-science-job-postings-with-salaries-2025",
+    "description":"Scraped Data Science Job Postings with Salaries for ML & Career Analytics (2025)",
+    "creator":"Elaheh Golrokh",
+    "sizeMB":0.04,
+    "downloadCount":617,
+    "usabilityRating":1.0,
+    "tags":[
+      "exploratory data analysis",
+      "statistical analysis",
+      "data analytics",
+      "regression",
+      "jobs and career"
+    ],
+    "lastUpdated":1757249481687,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/elahehgolrokh\/data-science-job-postings-with-salaries-2025"
   },
   {
     "title":"Global Jobs, GDP & Unemployment Data (1991–2022)",
@@ -1275,7 +1273,7 @@
     "description":"30-Year Comprehensive Dataset of Global Employment, GDP, and Unemployment Trends",
     "creator":"Akshat Sharma",
     "sizeMB":0.22,
-    "downloadCount":755,
+    "downloadCount":978,
     "usabilityRating":1.0,
     "tags":[
       "employment",
@@ -1289,12 +1287,65 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/akshatsharma2\/global-jobs-gdp-and-unemployment-data-19912022"
   },
   {
+    "title":"Job Descriptions 2025 – Tech & Non-Tech Roles",
+    "ref":"adityarajsrv\/job-descriptions-2025-tech-and-non-tech-roles",
+    "description":"1,100 Synthetic Job Descriptions for Tech & Non-Tech Roles",
+    "creator":"Aditya Raj Srivastava",
+    "sizeMB":0.2,
+    "downloadCount":1206,
+    "usabilityRating":1.0,
+    "tags":[
+      "artificial intelligence",
+      "nlp",
+      "jobs and career",
+      "english",
+      "synthetic"
+    ],
+    "lastUpdated":1756671166000,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/adityarajsrv\/job-descriptions-2025-tech-and-non-tech-roles"
+  },
+  {
+    "title":"Iris Species",
+    "ref":"uciml\/iris",
+    "description":"Classify iris plants into three species in this classic dataset",
+    "creator":"Kaggle Team Bot",
+    "sizeMB":0.0,
+    "downloadCount":761265,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "biology"
+    ],
+    "lastUpdated":1474961885000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/iris"
+  },
+  {
+    "title":"Ecommerce Dataset for Analysis ",
+    "ref":"nabihazahid\/ecommerce-dataset-for-sql-analysis",
+    "description":"synthetically generated dataset for practice.",
+    "creator":"nabiha zahid",
+    "sizeMB":0.32,
+    "downloadCount":615,
+    "usabilityRating":1.0,
+    "tags":[
+      "data cleaning",
+      "data visualization",
+      "classification",
+      "python",
+      "sql"
+    ],
+    "lastUpdated":1756080566967,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/nabihazahid\/ecommerce-dataset-for-sql-analysis"
+  },
+  {
     "title":"Palmer Archipelago (Antarctica) penguin data ",
     "ref":"parulpandey\/palmer-archipelago-antarctica-penguin-data",
     "description":"Drop in replacement for Iris Dataset",
     "creator":"Parul Pandey",
     "sizeMB":0.01,
-    "downloadCount":105885,
+    "downloadCount":105976,
     "usabilityRating":0.9705882,
     "tags":[
       "earth and nature",
@@ -1312,7 +1363,7 @@
     "description":"Synthetic dataset of 1M+ vehicles for high-accuracy price prediction.",
     "creator":"Atul Kumar Choudhary",
     "sizeMB":28.27,
-    "downloadCount":1315,
+    "downloadCount":1342,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -1327,113 +1378,37 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/metawave\/vehicle-price-prediction"
   },
   {
-    "title":"Credit Card Fraud Detection",
-    "ref":"mlg-ulb\/creditcardfraud",
-    "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
-    "creator":"Timo Bozsolik",
-    "sizeMB":65.95,
-    "downloadCount":994134,
-    "usabilityRating":0.85294116,
+    "title":"Post-COVID Conditions Dataset",
+    "ref":"ylmzasel\/post-covid-conditions-dataset",
+    "description":"Tracking Long COVID: A state-by-state look at post-COVID conditions",
+    "creator":"asel",
+    "sizeMB":0.27,
+    "downloadCount":233,
+    "usabilityRating":1.0,
     "tags":[
-      "crime",
-      "finance"
+      "public health",
+      "health",
+      "health conditions",
+      "covid19"
     ],
-    "lastUpdated":1521767847913,
+    "lastUpdated":1758188304537,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/mlg-ulb\/creditcardfraud"
+    "url":"https:\/\/www.kaggle.com\/datasets\/ylmzasel\/post-covid-conditions-dataset"
   },
   {
-    "title":"BMW Worldwide Sales Records (2010–2024)",
-    "ref":"ahmadrazakashif\/bmw-worldwide-sales-records-20102024",
-    "description":"A complete dataset of BMW cars from 2010–2024 with attributes like model, year, ",
-    "creator":"Ahmad Raza Kashif",
-    "sizeMB":0.81,
-    "downloadCount":1125,
+    "title":"Student Result",
+    "ref":"brandmustafa\/student-result",
+    "description":"Academic Achievement",
+    "creator":"Ghulam Mustafa",
+    "sizeMB":0.0,
+    "downloadCount":575,
     "usabilityRating":1.0,
     "tags":[
-      "business",
-      "marketing",
-      "automobiles and vehicles",
-      "data visualization",
-      "python"
+      "education"
     ],
-    "lastUpdated":1758379185000,
+    "lastUpdated":1756822143267,
     "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/ahmadrazakashif\/bmw-worldwide-sales-records-20102024"
-  },
-  {
-    "title":"Data Science Job Postings with Salaries (2025)",
-    "ref":"elahehgolrokh\/data-science-job-postings-with-salaries-2025",
-    "description":"Scraped Data Science Job Postings with Salaries for ML & Career Analytics (2025)",
-    "creator":"Elaheh Golrokh",
-    "sizeMB":0.04,
-    "downloadCount":486,
-    "usabilityRating":1.0,
-    "tags":[
-      "exploratory data analysis",
-      "statistical analysis",
-      "data analytics",
-      "regression",
-      "jobs and career"
-    ],
-    "lastUpdated":1757249481687,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/elahehgolrokh\/data-science-job-postings-with-salaries-2025"
-  },
-  {
-    "title":"Cows and Buffalo Computer Vision dataset",
-    "ref":"raghavdharwal\/cows-and-buffalo-computer-vision-dataset",
-    "description":"Contains images and labels of cows and buffaloes mostly Indian breeds",
-    "creator":"RAGHAV DHARWAL",
-    "sizeMB":103.17,
-    "downloadCount":1572,
-    "usabilityRating":1.0,
-    "tags":[
-      "india",
-      "animals",
-      "computer vision",
-      "image",
-      "text"
-    ],
-    "lastUpdated":1756178496083,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/raghavdharwal\/cows-and-buffalo-computer-vision-dataset"
-  },
-  {
-    "title":"Customer_Churn_dataset",
-    "ref":"mubeenshehzadi\/customer-churn-dataset",
-    "description":"Analysing Customer Retention and Churn Patterns in the Telecom Industry",
-    "creator":"Mubeen Shehzadi",
-    "sizeMB":0.17,
-    "downloadCount":265,
-    "usabilityRating":1.0,
-    "tags":[
-      "categorical",
-      "internet",
-      "multimodal",
-      "synthetic"
-    ],
-    "lastUpdated":1757479454273,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/mubeenshehzadi\/customer-churn-dataset"
-  },
-  {
-    "title":"Interesting Data to Visualize",
-    "ref":"alexisbcook\/data-for-datavis",
-    "description":"For Kaggle's Data Visualization Course",
-    "creator":"Alexis Cook",
-    "sizeMB":0.14,
-    "downloadCount":101523,
-    "usabilityRating":0.3529412,
-    "tags":[
-      "sports",
-      "earth and nature",
-      "business",
-      "data visualization"
-    ],
-    "lastUpdated":1651264650000,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/alexisbcook\/data-for-datavis"
+    "url":"https:\/\/www.kaggle.com\/datasets\/brandmustafa\/student-result"
   },
   {
     "title":"Netflix Movies and TV Shows",
@@ -1441,7 +1416,7 @@
     "description":"Listings of movies and tv shows on Netflix - Regularly Updated",
     "creator":"Shivam Bansal",
     "sizeMB":1.34,
-    "downloadCount":654694,
+    "downloadCount":655575,
     "usabilityRating":1.0,
     "tags":[
       "websites",
@@ -1455,204 +1430,41 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/shivamb\/netflix-shows"
   },
   {
-    "title":"Titanic Dataset",
-    "ref":"yasserh\/titanic-dataset",
-    "description":"Titanic Survival Prediction Dataset",
-    "creator":"M Yasser H",
-    "sizeMB":0.02,
-    "downloadCount":212616,
-    "usabilityRating":1.0,
+    "title":"Interesting Data to Visualize",
+    "ref":"alexisbcook\/data-for-datavis",
+    "description":"For Kaggle's Data Visualization Course",
+    "creator":"Alexis Cook",
+    "sizeMB":0.14,
+    "downloadCount":101586,
+    "usabilityRating":0.3529412,
     "tags":[
-      "natural disasters",
-      "beginner",
-      "classification",
-      "tabular",
-      "binary classification"
+      "sports",
+      "earth and nature",
+      "business",
+      "data visualization"
     ],
-    "lastUpdated":1640357586913,
-    "ai_category":"Film & Television Media",
-    "url":"https:\/\/www.kaggle.com\/datasets\/yasserh\/titanic-dataset"
-  },
-  {
-    "title":"Iris Species",
-    "ref":"uciml\/iris",
-    "description":"Classify iris plants into three species in this classic dataset",
-    "creator":"Kaggle Team Bot",
-    "sizeMB":0.0,
-    "downloadCount":760723,
-    "usabilityRating":0.7941176,
-    "tags":[
-      "biology"
-    ],
-    "lastUpdated":1474961885000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/iris"
-  },
-  {
-    "title":"CO₂ Emissions Across Countries, Regions, & Sectors",
-    "ref":"shreyanshdangi\/co-emissions-across-countries-regions-and-sectors",
-    "description":"Historical CO₂ data with energy, economy, and population indicators (1850-2025)",
-    "creator":"Shreyansh Dangi",
-    "sizeMB":4.01,
-    "downloadCount":1283,
-    "usabilityRating":1.0,
-    "tags":[
-      "categorical",
-      "atmospheric science",
-      "environment",
-      "pollution",
-      "data visualization",
-      "data analytics"
-    ],
-    "lastUpdated":1755753596523,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/shreyanshdangi\/co-emissions-across-countries-regions-and-sectors"
-  },
-  {
-    "title":"Daily Crypto & Stocks Market Data (2025 - Present)",
-    "ref":"adrianjuliusaluoch\/crypto-and-stock-market-data-for-financial-analysis",
-    "description":"Hourly crypto & stock data, updated daily — unlock insights, trends, & forecasts",
-    "creator":"Adrian Julius Aluoch",
-    "sizeMB":2.84,
-    "downloadCount":1170,
-    "usabilityRating":1.0,
-    "tags":[
-      "finance",
-      "economics",
-      "time series analysis",
-      "data analytics",
-      "investing"
-    ],
-    "lastUpdated":1759272310833,
+    "lastUpdated":1651264650000,
     "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/adrianjuliusaluoch\/crypto-and-stock-market-data-for-financial-analysis"
+    "url":"https:\/\/www.kaggle.com\/datasets\/alexisbcook\/data-for-datavis"
   },
   {
-    "title":"Amazon Product Images Dataset 2025",
-    "ref":"umerhaddii\/amazon-product-images-dataset-2025",
-    "description":"15,000+ Amazon Product Images ",
-    "creator":"Umer Haddii",
-    "sizeMB":2711.77,
-    "downloadCount":112,
+    "title":"Cows and Buffalo Computer Vision dataset",
+    "ref":"raghavdharwal\/cows-and-buffalo-computer-vision-dataset",
+    "description":"Contains images and labels of cows and buffaloes mostly Indian breeds",
+    "creator":"RAGHAV DHARWAL",
+    "sizeMB":103.17,
+    "downloadCount":1592,
     "usabilityRating":1.0,
     "tags":[
-      "manufacturing",
-      "retail and shopping",
-      "e-commerce services",
-      "image text detection",
-      "image text recognition"
-    ],
-    "lastUpdated":1758366477573,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/umerhaddii\/amazon-product-images-dataset-2025"
-  },
-  {
-    "title":"SecurePay: Credit Card Fraud Detection Data",
-    "ref":"eshummalik\/securepay-credit-card-fraud-detection-data",
-    "description":"A collection of credit card Transaction records as normal and abnormal",
-    "creator":"Eshum_malik",
-    "sizeMB":65.95,
-    "downloadCount":252,
-    "usabilityRating":1.0,
-    "tags":[
-      "data analytics",
-      "classification"
-    ],
-    "lastUpdated":1757343300257,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/eshummalik\/securepay-credit-card-fraud-detection-data"
-  },
-  {
-    "title":"Weather Data(2000-2023)",
-    "ref":"shivamshinde1904\/weather-data2000-2023",
-    "description":"Explore climate trends with daily temperature, precipitation, wind etc",
-    "creator":"shivamShinde1904",
-    "sizeMB":12.14,
-    "downloadCount":1284,
-    "usabilityRating":1.0,
-    "tags":[
-      "united states",
       "india",
-      "china ",
-      "australia",
-      "weather and climate"
+      "animals",
+      "computer vision",
+      "image",
+      "text"
     ],
-    "lastUpdated":1758014184000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/shivamshinde1904\/weather-data2000-2023"
-  },
-  {
-    "title":"Formula 1 Grand Prix Winners Dataset (1950–2025)",
-    "ref":"julianbloise\/winners-formula-1-1950-to-2025",
-    "description":"Includes date, continent, circuit, winning driver, team, race time, and laps",
-    "creator":"Julian Bloise",
-    "sizeMB":0.02,
-    "downloadCount":2395,
-    "usabilityRating":1.0,
-    "tags":[
-      "auto racing",
-      "automobiles and vehicles",
-      "data visualization",
-      "data analytics",
-      "english"
-    ],
-    "lastUpdated":1756316268427,
-    "ai_category":"Fandoms & Cultural Expression",
-    "url":"https:\/\/www.kaggle.com\/datasets\/julianbloise\/winners-formula-1-1950-to-2025"
-  },
-  {
-    "title":"Egyptian Real Estate Listings",
-    "ref":"hassankhaled21\/egyptian-real-estate-listings",
-    "description":"A Comprehensive Dataset of Egyptian Residential Properties",
-    "creator":"hassan khaled21",
-    "sizeMB":7.08,
-    "downloadCount":877,
-    "usabilityRating":1.0,
-    "tags":[
-      "housing",
-      "real estate",
-      "nlp",
-      "linear regression",
-      "regression"
-    ],
-    "lastUpdated":1756882012000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/hassankhaled21\/egyptian-real-estate-listings"
-  },
-  {
-    "title":"Student Exam Scores dataset",
-    "ref":"mirzayasirabdullah07\/student-exam-scores-dataset",
-    "description":"A synthetic dataset of 200 students with study habits, attendance, performance",
-    "creator":"Mirza Yasir Abdullah Baig",
-    "sizeMB":0.0,
-    "downloadCount":3644,
-    "usabilityRating":0.88235295,
-    "tags":[
-      "education",
-      "standardized testing"
-    ],
-    "lastUpdated":1755674807233,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/mirzayasirabdullah07\/student-exam-scores-dataset"
-  },
-  {
-    "title":"Perfume Dataset",
-    "ref":"ayushghawana\/perfume-dataset",
-    "description":"\"A dataset of global perfume brands, notes, types, and longevity\".",
-    "creator":"Ayush",
-    "sizeMB":0.01,
-    "downloadCount":1861,
-    "usabilityRating":1.0,
-    "tags":[
-      "intermediate",
-      "exploratory data analysis",
-      "data visualization",
-      "data analytics",
-      "tabular"
-    ],
-    "lastUpdated":1756836128533,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
-    "url":"https:\/\/www.kaggle.com\/datasets\/ayushghawana\/perfume-dataset"
+    "lastUpdated":1756178496083,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/raghavdharwal\/cows-and-buffalo-computer-vision-dataset"
   },
   {
     "title":"Pima Indians Diabetes Database",
@@ -1660,7 +1472,7 @@
     "description":"Predict the onset of diabetes based on diagnostic measures",
     "creator":"Kaggle Team Bot",
     "sizeMB":0.01,
-    "downloadCount":699684,
+    "downloadCount":700345,
     "usabilityRating":0.88235295,
     "tags":[
       "india",
@@ -1674,6 +1486,175 @@
     "lastUpdated":1475778716823,
     "ai_category":"others",
     "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/pima-indians-diabetes-database"
+  },
+  {
+    "title":"Perfume Dataset",
+    "ref":"ayushghawana\/perfume-dataset",
+    "description":"\"A dataset of global perfume brands, notes, types, and longevity\".",
+    "creator":"Ayush",
+    "sizeMB":0.01,
+    "downloadCount":1902,
+    "usabilityRating":1.0,
+    "tags":[
+      "intermediate",
+      "exploratory data analysis",
+      "data visualization",
+      "data analytics",
+      "tabular"
+    ],
+    "lastUpdated":1756836128533,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ayushghawana\/perfume-dataset"
+  },
+  {
+    "title":"Amazon Product Images Dataset 2025",
+    "ref":"umerhaddii\/amazon-product-images-dataset-2025",
+    "description":"15,000+ Amazon Product Images ",
+    "creator":"Umer Haddii",
+    "sizeMB":2711.77,
+    "downloadCount":119,
+    "usabilityRating":1.0,
+    "tags":[
+      "manufacturing",
+      "retail and shopping",
+      "e-commerce services",
+      "image text detection",
+      "image text recognition"
+    ],
+    "lastUpdated":1758366477573,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/umerhaddii\/amazon-product-images-dataset-2025"
+  },
+  {
+    "title":"Weather Data(2000-2023)",
+    "ref":"shivamshinde1904\/weather-data2000-2023",
+    "description":"Explore climate trends with daily temperature, precipitation, wind etc",
+    "creator":"shivamShinde1904",
+    "sizeMB":12.14,
+    "downloadCount":1290,
+    "usabilityRating":1.0,
+    "tags":[
+      "united states",
+      "india",
+      "china ",
+      "australia",
+      "weather and climate"
+    ],
+    "lastUpdated":1758014184000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/shivamshinde1904\/weather-data2000-2023"
+  },
+  {
+    "title":"Board Games Dataset Complete Features",
+    "ref":"chik0di\/board-games-dataset-complete-features",
+    "description":" Marketplace section deprecated except Amazon price. All Versions Accessible.",
+    "creator":"Chik0di",
+    "sizeMB":1.62,
+    "downloadCount":1287,
+    "usabilityRating":1.0,
+    "tags":[
+      "arts and entertainment",
+      "games",
+      "board games",
+      "exploratory data analysis",
+      "data visualization"
+    ],
+    "lastUpdated":1757955659963,
+    "ai_category":"Gaming & Interactive Media",
+    "url":"https:\/\/www.kaggle.com\/datasets\/chik0di\/board-games-dataset-complete-features"
+  },
+  {
+    "title":"Earthquake Alert Prediction Dataset",
+    "ref":"ahmeduzaki\/earthquake-alert-prediction-dataset",
+    "description":"Balanced Seismic Data for Machine Learning in Earthquake Alert Prediction",
+    "creator":"Ahmed Mohamed Zaki",
+    "sizeMB":0.01,
+    "downloadCount":500,
+    "usabilityRating":1.0,
+    "tags":[
+      "sampling",
+      "artificial intelligence",
+      "classification",
+      "tabular"
+    ],
+    "lastUpdated":1758229144653,
+    "ai_category":"Gaming & Interactive Media",
+    "url":"https:\/\/www.kaggle.com\/datasets\/ahmeduzaki\/earthquake-alert-prediction-dataset"
+  },
+  {
+    "title":"Formula 1 Grand Prix Winners Dataset (1950–2025)",
+    "ref":"julianbloise\/winners-formula-1-1950-to-2025",
+    "description":"Includes date, continent, circuit, winning driver, team, race time, and laps",
+    "creator":"Julian Bloise",
+    "sizeMB":0.02,
+    "downloadCount":2415,
+    "usabilityRating":1.0,
+    "tags":[
+      "auto racing",
+      "automobiles and vehicles",
+      "data visualization",
+      "data analytics",
+      "english"
+    ],
+    "lastUpdated":1756316268427,
+    "ai_category":"Fandoms & Cultural Expression",
+    "url":"https:\/\/www.kaggle.com\/datasets\/julianbloise\/winners-formula-1-1950-to-2025"
+  },
+  {
+    "title":"Customer_Churn_dataset",
+    "ref":"mubeenshehzadi\/customer-churn-dataset",
+    "description":"Analysing Customer Retention and Churn Patterns in the Telecom Industry",
+    "creator":"Mubeen Shehzadi",
+    "sizeMB":0.17,
+    "downloadCount":283,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "internet",
+      "multimodal",
+      "synthetic"
+    ],
+    "lastUpdated":1757479454273,
+    "ai_category":"Internet & Digital Culture",
+    "url":"https:\/\/www.kaggle.com\/datasets\/mubeenshehzadi\/customer-churn-dataset"
+  },
+  {
+    "title":"World Cities, Countries & Languages Dataset",
+    "ref":"adilshamim8\/world-cities-countries-and-languages-dataset",
+    "description":"Population, geography, and language statistics for global analysis",
+    "creator":"Adil Shamim",
+    "sizeMB":0.08,
+    "downloadCount":1264,
+    "usabilityRating":1.0,
+    "tags":[
+      "languages",
+      "people",
+      "people and society",
+      "social science",
+      "social networks"
+    ],
+    "lastUpdated":1757513491237,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/adilshamim8\/world-cities-countries-and-languages-dataset"
+  },
+  {
+    "title":"Egyptian Real Estate Listings",
+    "ref":"hassankhaled21\/egyptian-real-estate-listings",
+    "description":"A Comprehensive Dataset of Egyptian Residential Properties",
+    "creator":"hassan khaled21",
+    "sizeMB":7.08,
+    "downloadCount":925,
+    "usabilityRating":1.0,
+    "tags":[
+      "housing",
+      "real estate",
+      "nlp",
+      "linear regression",
+      "regression"
+    ],
+    "lastUpdated":1756882012000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/hassankhaled21\/egyptian-real-estate-listings"
   },
   {
     "title":"Counterfeit Money Images",
@@ -1695,30 +1676,12 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/jockeroika\/counterfeit-money-images"
   },
   {
-    "title":"IPL Player Statistics (2016–2025) – From Cricsheet",
-    "ref":"sunnyyadav754\/ipl-player-statistics-20162025-from-cricsheet",
-    "description":"Batting & Bowling stats for all IPL players (2016–2025),processed from Cricsheet",
-    "creator":"Sunny Yadav",
-    "sizeMB":1.94,
-    "downloadCount":285,
-    "usabilityRating":0.9375,
-    "tags":[
-      "cricket",
-      "sports",
-      "intermediate",
-      "json"
-    ],
-    "lastUpdated":1758298383000,
-    "ai_category":"Fandoms & Cultural Expression",
-    "url":"https:\/\/www.kaggle.com\/datasets\/sunnyyadav754\/ipl-player-statistics-20162025-from-cricsheet"
-  },
-  {
     "title":"Extra dataset with SMILES,Tg,PID,Polimers Class",
     "ref":"linyeping\/extra-dataset-with-smilestgpidpolimers-class",
     "description":"A polymer dataset wtth SMILES,Tg,PID,Polimers Class",
     "creator":"Jing Hua",
     "sizeMB":0.1,
-    "downloadCount":166,
+    "downloadCount":171,
     "usabilityRating":1.0,
     "tags":[
       "chemistry",
@@ -1732,23 +1695,39 @@
     "url":"https:\/\/www.kaggle.com\/datasets\/linyeping\/extra-dataset-with-smilestgpidpolimers-class"
   },
   {
-    "title":"Palantir Stock Data 2025",
-    "ref":"umerhaddii\/palantir-stock-data-2025",
-    "description":"All time Palantir Stock Data from 2020 - 2025",
-    "creator":"Umer Haddii",
-    "sizeMB":0.03,
-    "downloadCount":167,
+    "title":"Student Exam Scores dataset",
+    "ref":"mirzayasirabdullah07\/student-exam-scores-dataset",
+    "description":"A synthetic dataset of 200 students with study habits, attendance, performance",
+    "creator":"Mirza Yasir Abdullah Baig",
+    "sizeMB":0.0,
+    "downloadCount":3674,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "education",
+      "standardized testing"
+    ],
+    "lastUpdated":1755674807233,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/mirzayasirabdullah07\/student-exam-scores-dataset"
+  },
+  {
+    "title":"Amazon_Fashion_Products",
+    "ref":"poorveshchaudhari\/amazon-fashion-products",
+    "description":"13K+ e-commerce products with brand, price, rating, and category details",
+    "creator":"Poorvesh",
+    "sizeMB":0.67,
+    "downloadCount":1631,
     "usabilityRating":1.0,
     "tags":[
-      "business",
-      "finance",
+      "clothing and accessories",
       "artificial intelligence",
-      "investing",
-      "currencies and foreign exchange"
+      "computer vision",
+      "image",
+      "e-commerce services"
     ],
-    "lastUpdated":1757426627273,
-    "ai_category":"Internet & Digital Culture",
-    "url":"https:\/\/www.kaggle.com\/datasets\/umerhaddii\/palantir-stock-data-2025"
+    "lastUpdated":1756728574197,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/poorveshchaudhari\/amazon-fashion-products"
   },
   {
     "title":"Airlines Flights Data",
@@ -1756,7 +1735,7 @@
     "description":"Analyse Airlines' Flights Dataset with Python",
     "creator":"Data Science Lovers",
     "sizeMB":2.33,
-    "downloadCount":28578,
+    "downloadCount":28657,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -1775,7 +1754,7 @@
     "description":"Mobile device market insights",
     "creator":"Ghulam Mustafa",
     "sizeMB":0.0,
-    "downloadCount":274,
+    "downloadCount":286,
     "usabilityRating":1.0,
     "tags":[
       "python"
@@ -1783,5 +1762,24 @@
     "lastUpdated":1757215013807,
     "ai_category":"Lifestyle & Consumer Aesthetics",
     "url":"https:\/\/www.kaggle.com\/datasets\/brandmustafa\/phone-shop-dataset"
+  },
+  {
+    "title":"Flood disaster data",
+    "ref":"emanfatima2025\/flood-disaster-data",
+    "description":"Global dataset on flood disasters for risk and resilience analysis",
+    "creator":"eman fatima",
+    "sizeMB":0.11,
+    "downloadCount":166,
+    "usabilityRating":1.0,
+    "tags":[
+      "geology",
+      "natural disasters",
+      "weather and climate",
+      "data cleaning",
+      "data visualization"
+    ],
+    "lastUpdated":1757579761000,
+    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "url":"https:\/\/www.kaggle.com\/datasets\/emanfatima2025\/flood-disaster-data"
   }
 ]
